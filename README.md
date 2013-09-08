@@ -1,4 +1,4 @@
 Leetcode
 ========
 
-Coding practice on LeetCode
+Coding practice -- LeetCode
